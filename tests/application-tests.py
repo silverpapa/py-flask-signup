@@ -39,7 +39,7 @@ class AppTestCase(unittest.TestCase):
         self.assertTrue(1)
 
     def test_get_form(self):
-        """ Test that we can get a signup form """
+        """ Test that we can get a signup form XXX"""
         self.assertTrue(1)
 
     def test_get_user(self):
